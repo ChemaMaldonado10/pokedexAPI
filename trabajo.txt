@@ -1,0 +1,21 @@
+- Main pantalla
+
+-- Status bar: Logo(izda), nombre(centro), busqueda(drcha).
+Hay que buscar como carajo se hace. 😁
+
+-- Menu flotante
+Hay que buscar como carajo se hace. 😁
+
+-- Grid layout 
+Hay que buscar como carajo se hace. 😁
+
+
+TAREAS.
+-------
+1. Frontend AndroidStudio. (actividad main y actividad detalle)
+2. BBDD. (WebScrapping con python)
+3. API. (PokeAPI, adaptarla a nuestros datos)
+
+
+
+
